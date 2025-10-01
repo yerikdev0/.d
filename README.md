@@ -1,4 +1,4 @@
--- LocalScript em StarterGui
+-- erik
 
 -- Criar ScreenGui
 local screenGui = Instance.new("ScreenGui")
